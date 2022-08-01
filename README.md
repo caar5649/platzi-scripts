@@ -2,4 +2,4 @@
 
 Dummy tests are in `jenkins-tests`.
 hola,prueba,eso,hola, hola Laura
-* hola Laura
+* hola Laura, como estas, bien y vos
